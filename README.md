@@ -1,6 +1,6 @@
 # Notepad_DATASTRUCTURE_midPROJECT
 
-There was coming some issue while pushing project file on github it was stucking somewhere. So, added the code file manually.
+There was coming some issue while pushing project file on github it was stucking on writting objects. So, added the code file manually.
 Dowload it and run it in your [Visual Studio] or [VS code] or any c++ IDE.
 
 Implementation using 4D- Linked List
